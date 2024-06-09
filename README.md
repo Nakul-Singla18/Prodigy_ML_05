@@ -119,4 +119,4 @@ A mixture of methods including canny edge detection, watershed segmentation, mor
 
 
 
-<a href="mailto:vinayak.sable.56@gmail.com">@vinayak</a> What do you think about these ?
+
